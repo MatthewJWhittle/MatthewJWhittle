@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a data scientist with a background in Ecology and Environmental Consulting. I currently work at Jacobs as a Senior Data Scientist.
+
+[Connect with me on LinkedIn! 🙂](https://www.linkedin.com/in/matthewjwhittle/)
+
+
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewJWhittle)](https://github.com/MatthewJWhittle/github-readme-stats)
 
 <!--
