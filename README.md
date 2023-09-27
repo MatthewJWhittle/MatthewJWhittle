@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data scientist with a background in Ecology and Environmental Consulting. I currently work at Jacobs as a Senior Data Scientist, see my [other account for Jacobs related open source work](https://github.com/matthewjwhittle-jacobs).
+I'm a data scientist with a background in Ecology and Environmental Consulting. I currently work at SLR Consulting as an Associate Data Scientist where I build solutions that help our clients achieve their sustainability goals.
 
 [Connect with me on LinkedIn! 🙂](https://www.linkedin.com/in/matthewjwhittle/)
 
